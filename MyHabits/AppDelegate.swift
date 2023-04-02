@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  MyHabits
-//
-//  Created by Александр Филатов on 22.03.2023.
-//
-
 import UIKit
 
 @main
